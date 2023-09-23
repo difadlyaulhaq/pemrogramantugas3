@@ -1,0 +1,21 @@
+E:\22.61.0234\lat\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.csprojAssemblyReference.cache
+E:\22.61.0234\lat\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.frmLatihanTiga3.resources
+E:\22.61.0234\lat\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.Properties.Resources.resources
+E:\22.61.0234\lat\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.csproj.GenerateResource.cache
+E:\22.61.0234\lat\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.csproj.CoreCompileInputs.cache
+E:\22.61.0234\lat\Aplikasi3\Aplikasi3\bin\Debug\Aplikasi3.exe.config
+E:\22.61.0234\lat\Aplikasi3\Aplikasi3\bin\Debug\Aplikasi3.exe
+E:\22.61.0234\lat\Aplikasi3\Aplikasi3\bin\Debug\Aplikasi3.pdb
+E:\22.61.0234\lat\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.exe
+E:\22.61.0234\lat\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.pdb
+D:\kuliah difa\Semester 3\pemrog\praktikum\pert2\Aplikasi3\Aplikasi3\bin\Debug\Aplikasi3.exe.config
+D:\kuliah difa\Semester 3\pemrog\praktikum\pert2\Aplikasi3\Aplikasi3\bin\Debug\Aplikasi3.exe
+D:\kuliah difa\Semester 3\pemrog\praktikum\pert2\Aplikasi3\Aplikasi3\bin\Debug\Aplikasi3.pdb
+D:\kuliah difa\Semester 3\pemrog\praktikum\pert2\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.csproj.AssemblyReference.cache
+D:\kuliah difa\Semester 3\pemrog\praktikum\pert2\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.csproj.SuggestedBindingRedirects.cache
+D:\kuliah difa\Semester 3\pemrog\praktikum\pert2\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.frmLatihanTiga3.resources
+D:\kuliah difa\Semester 3\pemrog\praktikum\pert2\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.Properties.Resources.resources
+D:\kuliah difa\Semester 3\pemrog\praktikum\pert2\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.csproj.GenerateResource.cache
+D:\kuliah difa\Semester 3\pemrog\praktikum\pert2\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.csproj.CoreCompileInputs.cache
+D:\kuliah difa\Semester 3\pemrog\praktikum\pert2\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.exe
+D:\kuliah difa\Semester 3\pemrog\praktikum\pert2\Aplikasi3\Aplikasi3\obj\Debug\Aplikasi3.pdb
